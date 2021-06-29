@@ -1,0 +1,11 @@
+{
+    "name": "MCGREGOR",
+    "description": "MCGREGOR - UFC Fighter",
+    "image": "https://ipfs.io/ipfs/QmNshpfGgnUr5WnVNsv4NXyHVeijVnc2fLdXhBJy6fpV7m?filename=mcgregor.png",
+    "attributes": [
+        {
+            "trait_type": "Stamina",
+            "value": 100
+        }
+    ]
+}
